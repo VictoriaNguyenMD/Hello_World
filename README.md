@@ -4,9 +4,7 @@
 A basic android application that allows users to change the text, change the background color, and change the text color. This is my first project and the pre-work required for Code Path's introduction to mobile application course.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/USOe2MfJwG.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
